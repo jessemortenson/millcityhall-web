@@ -6,7 +6,9 @@
         <description>A Minneapolis politics podcast hosted by four-term city council member Cam Gordon and longtime activist Jesse Mortenson.</description>
         <language>en-us</language>
         <itunes:author>Cam Gordon and Jesse Mortenson</itunes:author>
-        <itunes:category text="Politics"/>
+        <itunes:category text="News">
+            <itunes:category text="Politics" />
+        </itunes:category>
         <itunes:image href="https://millcityhall.com/images/podcast-cover.png"/>
         <itunes:explicit>false</itunes:explicit>
         
