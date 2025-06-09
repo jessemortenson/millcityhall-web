@@ -1,0 +1,22 @@
+---
+layout: base.njk
+---
+<article class="episode">
+    <h1 class="episode-title">{{ title }}</h1>
+    <div class="episode-date">{{ date | date }}</div>
+    
+    <div class="episode-content">
+        {{ content | safe }}
+    </div>
+
+    <div class="episode-player">
+        <h2>Listen to this episode</h2>
+        <audio class="audio-player" controls>
+            <source src="{{ audioUrl }}" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <div class="download-link">
+            <a href="{{ audioUrl }}" download>Download Episode (MP3)</a>
+        </div>
+    </div>
+</article> 

@@ -18,7 +18,7 @@ eleventyExcludeFromCollections: true
         {% for episode in collections.episodes | reverse %}
         <item>
             <title>{{ episode.data.title | xmlEscape }}</title>
-            <link>{{ site.url }}/episodes/{{ episode.fileSlug }}</link>
+            <link>{{ site.url}}{{ episode.data.permalink }}</link>
             <description>{{ episode.data.description | xmlEscape }}</description>
             <pubDate>{{ episode.date | dateToRfc822 }}</pubDate>
             <enclosure url="{{ episode.data.audioUrl }}" length="{{ episode.data.audioLength }}" type="audio/mpeg"/>

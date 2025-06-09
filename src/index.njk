@@ -9,7 +9,9 @@ title: Home
 
 {% for episode in collections.episodes | reverse %}
 <article class="episode">
-    <h2 class="episode-title">{{ episode.data.title }}</h2>
+    <h2 class="episode-title">
+        <a href="{{ episode.data.permalink }}">{{ episode.data.title }}</a>
+    </h2>
     <div class="episode-date">{{ episode.date | date }}</div>
     <div class="episode-description">
         {{ episode.data.description }}

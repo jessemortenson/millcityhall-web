@@ -11,7 +11,13 @@ module.exports = function(eleventyConfig) {
   
   // Define episodes collection
   eleventyConfig.addCollection("episodes", function(collection) {
-    return collection.getFilteredByGlob("src/episodes/*.md");
+    return collection.getFilteredByGlob("src/episodes/*.md").map(item => {
+      // Create permalink using the date from front matter
+      const date = new Date(item.data.date);
+      const dateStr = date.toISOString().split('T')[0]; // YYYY-MM-DD
+      item.data.permalink = `/episodes/${dateStr}-${item.fileSlug}/index.html`;
+      return item;
+    });
   });
 
   // Add date filter
@@ -19,7 +25,8 @@ module.exports = function(eleventyConfig) {
     return new Date(date).toLocaleDateString('en-US', {
       year: 'numeric',
       month: 'long',
-      day: 'numeric'
+      day: 'numeric',
+      timeZone: 'America/Chicago'
     });
   });
 
