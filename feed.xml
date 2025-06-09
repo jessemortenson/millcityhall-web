@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Mill City Hall: Minneapolis politics, slightly ground down</title>
+        <link>https://millcityhall.com</link>
+        <description>A Minneapolis politics podcast featuring four term city council member Cam Gordon and longtime activist Jesse Mortenson.</description>
+        <language>en-us</language>
+        <itunes:author>Cam Gordon and Jesse Mortenson</itunes:author>
+        <itunes:category text="Politics"/>
+        <itunes:image href="https://millcityhall.com/images/podcast-cover.png"/>
+        <itunes:explicit>false</itunes:explicit>
+        
+        <item>
+            <title>Jacob Frey, the Trust in Government Guy? Reviewing the State of the City Address</title>
+            <link>https://millcityhall.com/episodes/state-of-the-city</link>
+            <description>In May, Jacob Frey gave the official campaign speech for the city... no wait, we mean State of the City speech. Cam and Jesse share highlights and react to a speech that made some strange omissions.</description>
+            <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+            <enclosure url="https://millcityhall.comhttps://millcityhall-public.s3.us-east-1.amazonaws.com/audio/250528-state-of-city-rough.mp3" length="4571" type="audio/mpeg"/>
+            <guid>https://millcityhall.com/episodes/state-of-the-city</guid>
+            <itunes:duration>1:16:11</itunes:duration>
+        </item>
+        
+    </channel>
+</rss> 
