@@ -1,0 +1,22 @@
+---
+layout: base.njk
+title: Home
+---
+
+<div class="subscribe">
+    <a href="/feed.xml">Subscribe to RSS Feed</a>
+</div>
+
+{% for episode in collections.episodes | reverse %}
+<article class="episode">
+    <h2 class="episode-title">{{ episode.data.title }}</h2>
+    <div class="episode-date">{{ episode.date | date }}</div>
+    <div class="episode-description">
+        {{ episode.data.description }}
+    </div>
+    <audio class="audio-player" controls>
+        <source src="{{ episode.data.audioUrl }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</article>
+{% endfor %} 

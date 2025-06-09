@@ -1,0 +1,23 @@
+{
+  "name": "millcityhall",
+  "version": "1.0.0",
+  "description": "A podcast website built with 11ty",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "start": "npm run serve"
+  },
+  "keywords": [
+    "podcast",
+    "11ty",
+    "static-site"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "xml-escape": "^1.1.0"
+  }
+}
