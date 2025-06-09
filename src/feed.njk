@@ -10,7 +10,9 @@ eleventyExcludeFromCollections: true
         <description>{{ site.description | xmlEscape }}</description>
         <language>en-us</language>
         <itunes:author>{{ site.author | xmlEscape }}</itunes:author>
-        <itunes:category text="{{ site.category | xmlEscape }}"/>
+        <itunes:category text="{{ site.category | xmlEscape }}">
+            <itunes:category text="{{ site.subCategory | xmlEscape }}" />
+        </itunes:category>
         <itunes:image href="{{ site.url }}/images/podcast-cover.png"/>
         <itunes:explicit>false</itunes:explicit>
         {% for episode in collections.episodes | reverse %}

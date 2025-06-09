@@ -3,6 +3,7 @@
     "description": "A Minneapolis politics podcast hosted by four-term city council member Cam Gordon and longtime activist Jesse Mortenson.",
     "url": "https://millcityhall.com",
     "author": "Cam Gordon and Jesse Mortenson",
-    "category": "Politics",
+    "category": "News",
+    "subCategory": "Politics",
     "year": 2025
 }
