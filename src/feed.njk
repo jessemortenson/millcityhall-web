@@ -19,7 +19,7 @@ eleventyExcludeFromCollections: true
             <link>{{ site.url }}/episodes/{{ episode.fileSlug }}</link>
             <description>{{ episode.data.description | xmlEscape }}</description>
             <pubDate>{{ episode.date | dateToRfc822 }}</pubDate>
-            <enclosure url="{{ site.url }}{{ episode.data.audioUrl }}" length="{{ episode.data.audioLength }}" type="audio/mpeg"/>
+            <enclosure url="{{ episode.data.audioUrl }}" length="{{ episode.data.audioLength }}" type="audio/mpeg"/>
             <guid>{{ site.url }}/episodes/{{ episode.fileSlug }}</guid>
             <itunes:duration>{{ episode.data.duration }}</itunes:duration>
         </item>
