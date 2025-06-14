@@ -15,7 +15,7 @@ rel="self" type="application/rss+xml" />
             <itunes:category text="Politics" />
         </itunes:category>
         <itunes:image href="https://millcityhall.com/images/mch-logo-1400.png"/>
-        <itunes:explicit>false</itune   s:explicit>
+        <itunes:explicit>false</itunes:explicit>
         
         <item>
             <title>Frey - Trust in Government Guy? Reviewing the State of the City Address</title>
