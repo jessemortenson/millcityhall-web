@@ -3,8 +3,10 @@ layout: base.njk
 title: Home
 ---
 
-<div class="subscribe">
-    <a href="/feed.xml">Subscribe to RSS Feed</a>
+<div style="text-align: center;">
+    <div class="subscribe">
+        <a href="/feed.xml">Subscribe to RSS Feed</a>
+    </div>
 </div>
 
 {% for episode in collections.episodes | reverse %}
