@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Mill City Hall: Minneapolis politics, slightly ground down</title>
         <link>https://millcityhall.com</link>
         <description>A Minneapolis politics podcast hosted by four-term city council member Cam Gordon and longtime activist Jesse Mortenson.</description>
         <language>en-us</language>
+        <atom:link href="https://millcityhall.com/feed.xml"
+rel="self" type="application/rss+xml" />
         <itunes:author>Cam Gordon and Jesse Mortenson</itunes:author>
         <itunes:category text="News">
             <itunes:category text="Politics" />
         </itunes:category>
-        <itunes:image href="https://millcityhall.com/images/podcast-cover.png"/>
-        <itunes:explicit>false</itunes:explicit>
+        <itunes:image href="https://millcityhall.com/images/mch-logo-1400.png"/>
+        <itunes:explicit>false</itune   s:explicit>
         
         <item>
             <title>Frey - Trust in Government Guy? Reviewing the State of the City Address</title>

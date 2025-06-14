@@ -39,9 +39,13 @@ header {
   margin-bottom: 3rem;
 }
 
+header img {
+  width: 40%;
+}
+
 h1 {
   color: var(--primary-color);
-  font-size: 2.5rem;
+  font-size: 2rem;
   margin-bottom: 1rem;
 }
 
@@ -49,6 +53,15 @@ h2 {
   color: var(--secondary-color);
   font-size: 1.8rem;
   margin: 2rem 0 1rem;
+}
+
+header h2 {
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+header h3 {
+  font-size: 1.2rem;
 }
 
 /* Navigation styles */
@@ -126,7 +139,6 @@ h2 {
   padding: 1rem 2rem;
   border-radius: 5px;
   text-align: center;
-  margin: 2rem auto;
 }
 
 .subscribe a {
@@ -174,3 +186,26 @@ h2 {
 .download-link a:hover {
   background-color: #1e3d7a;
 } 
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  header img {
+    width: 100%;
+  }
+
+  header h2 {
+    font-size: 1.5rem;
+  }
+
+  header h3 {
+    font-size: 1rem;
+  }
+
+  .main-nav {
+    padding: 1.5rem 0;
+  }
+
+  .main-nav ul {
+    gap: 1rem;
+  }
+}
