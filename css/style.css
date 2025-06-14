@@ -21,6 +21,19 @@ body {
   padding: 2rem;
 }
 
+main p {
+  margin: 1rem 0;
+}
+
+main ul, main ol {
+  margin: 1rem 0;
+  padding-left: 2rem;
+}
+
+main li {
+  margin: 0.5rem 0;
+}
+
 header {
   text-align: center;
   margin-bottom: 3rem;
@@ -36,6 +49,38 @@ h2 {
   color: var(--secondary-color);
   font-size: 1.8rem;
   margin: 2rem 0 1rem;
+}
+
+/* Navigation styles */
+.main-nav {
+  margin: 2rem 0;
+  background-color: var(--primary-color);
+  padding: 1rem 0;
+  border-radius: 5px;
+}
+
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.main-nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+.main-nav a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.main-nav a.active {
+  background-color: rgba(255, 255, 255, 0.2);
 }
 
 .episode {
@@ -75,12 +120,13 @@ h2 {
 }
 
 .subscribe {
-  background-color: var(--primary-color);
+  display: inline-block;
+  background-color: var(--secondary-color);
   color: white;
-  padding: 1rem;
+  padding: 1rem 2rem;
   border-radius: 5px;
   text-align: center;
-  margin: 2rem 0;
+  margin: 2rem auto;
 }
 
 .subscribe a {
