@@ -19,7 +19,7 @@ rel="self" type="application/rss+xml" />
             <itunes:category text="{{ site.subCategory | xmlEscape }}" />
         </itunes:category>
         <itunes:image href="{{ site.url }}/images/mch-logo-1400.png"/>
-        <itunes:explicit>false</itune   s:explicit>
+        <itunes:explicit>false</itunes:explicit>
         {% for episode in collections.episodes | reverse %}
         <item>
             <title>{{ episode.data.title | xmlEscape }}</title>
