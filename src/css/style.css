@@ -139,7 +139,6 @@ header h3 {
   padding: 1rem 2rem;
   border-radius: 5px;
   text-align: center;
-  margin: 2rem auto;
 }
 
 .subscribe a {
@@ -187,3 +186,26 @@ header h3 {
 .download-link a:hover {
   background-color: #1e3d7a;
 } 
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  header img {
+    width: 100%;
+  }
+
+  header h2 {
+    font-size: 1.5rem;
+  }
+
+  header h3 {
+    font-size: 1rem;
+  }
+
+  .main-nav {
+    padding: 1.5rem 0;
+  }
+
+  .main-nav ul {
+    gap: 1rem;
+  }
+}
