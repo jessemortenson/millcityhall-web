@@ -5,7 +5,13 @@ title: "a Minneapolis Politics Podcast"
 
 <div style="text-align: center;">
     <div class="subscribe">
-        <a href="/feed.xml">Subscribe to RSS Feed</a>
+        <div class="rss-container">
+            <a href="#" onclick="toggleRssContent(event)">Subscribe to RSS Feed</a>
+            <div class="rss-content" id="rssContent">
+                <p>Copy the RSS feed and paste into your favorite Podcast player</p>
+                <input type="text" class="rss-input" value="https://millcityhall.com/feed.xml" readonly onclick="copyFeedUrl(this)">
+            </div>
+        </div>
     </div>
 </div>
 
@@ -23,4 +29,27 @@ title: "a Minneapolis Politics Podcast"
         Your browser does not support the audio element.
     </audio>
 </article>
-{% endfor %} 
+{% endfor %}
+
+<script>
+function toggleRssContent(event) {
+    event.preventDefault();
+    const content = document.getElementById('rssContent');
+    content.classList.toggle('show');
+}
+
+function copyFeedUrl(input) {
+    input.select();
+    document.execCommand('copy');
+    input.blur();
+}
+
+// Close the RSS content when clicking outside
+document.addEventListener('click', function(event) {
+    const rssContainer = document.querySelector('.rss-container');
+    const rssContent = document.getElementById('rssContent');
+    if (!rssContainer.contains(event.target)) {
+        rssContent.classList.remove('show');
+    }
+});
+</script> 
