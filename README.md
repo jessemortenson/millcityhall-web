@@ -16,5 +16,6 @@ Uses github pages and a github actions workflow to build. Simply push to `main`
 * [Podbase.pb validator](https://podba.se/validate/?url=https://millcityhall.com/feed.xml)
 * [Apple Podcast Categories](https://podcasters.apple.com/support/1691-apple-podcasts-categories)
 * [Apple Podcast Requirements](https://podcasters.apple.com/support/823-podcast-requirements)
+* [Apple Podcaster's guide to RSS](https://help.apple.com/itc/podcasts_connect/#/itcb54353390)
 * [Apple Validate Your Podcast guide](https://podcasters.apple.com/support/829-validate-your-podcast)
 

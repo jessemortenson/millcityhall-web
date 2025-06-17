@@ -4,8 +4,8 @@ title: Big Money, Stealth Parties Shape the Landscape, w/ Robin Garwood
 date: 2025-06-11T00:00:00.0-5
 description: "With unprecendented big money pouring into a full slate of city elections, we assess the Minneapolis political landscape, with special guest Robin Garwood. This episode features a deep dive on new phenomenon of political action committees acting as stealth political parties. In this context we ask the question: what could lead to the mayor getting re-elected or defeated?"
 audioUrl: https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/250611-political-landscape-rough1.mp3
-audioLength: 5504
-duration: "1:31:44"
+audioFileSize: 88069277
+duration: "5504"
 ---
 
 With unprecendented big money pouring into a full slate of city elections, we assess the Minneapolis political landscape, with special guest Robin Garwood. This episode features a deep dive on new phenomenon of political action committees acting as stealth political parties. In this context we ask the question: what could lead to the mayor getting re-elected or defeated?

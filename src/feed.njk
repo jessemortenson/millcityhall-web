@@ -6,11 +6,13 @@ eleventyExcludeFromCollections: true
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>{{ site.title | xmlEscape }}</title>
         <link>{{ site.url }}</link>
         <description>{{ site.description | xmlEscape }}</description>
+        <itunes:summary>{{ site.description | xmlEscape }}</itunes:summary>
         <language>en-us</language>
         <atom:link href="https://millcityhall.com/feed.xml"
 rel="self" type="application/rss+xml" />
@@ -18,16 +20,26 @@ rel="self" type="application/rss+xml" />
         <itunes:category text="{{ site.category | xmlEscape }}">
             <itunes:category text="{{ site.subCategory | xmlEscape }}" />
         </itunes:category>
+        <itunes:type>episodic</itunes:type>
         <itunes:image href="{{ site.url }}/images/mch-logo-1400.png"/>
-        <itunes:explicit>false</itunes:explicit>
+        <image>
+            <link>{{ site.url }}</link>
+            <title>{{ site.title | xmlEscape }}</title>
+            <url>{{ site.url }}/images/mch-logo-1400.png</url>
+        </image>
+        <itunes:explicit>true</itunes:explicit>
         {% for episode in collections.episodes | reverse %}
         <item>
             <title>{{ episode.data.title | xmlEscape }}</title>
             <link>{{ site.url}}{{ episode.data.permalink }}</link>
-            <description>{{ episode.data.description | xmlEscape }}</description>
+            <description><![CDATA[
+                <p>{{ episode.data.description | xmlEscape }}</p>
+                <p><a href="{{ site.url }}{{ episode.data.permalink }}">Read the show notes and find links for further reading</a></p>
+                ]]>
+            </description>
             <pubDate>{{ episode.date | dateToRfc822 }}</pubDate>
-            <enclosure url="{{ episode.data.audioUrl }}" length="{{ episode.data.audioLength }}" type="audio/mpeg"/>
-            <guid>{{ site.url }}/episodes/{{ episode.fileSlug }}</guid>
+            <enclosure url="{{ episode.data.audioUrl }}" length="{{ episode.data.audioFileSize }}" type="audio/mpeg"/>
+            <guid>{{ site.url}}{{ episode.data.permalink }}</guid>
             <itunes:duration>{{ episode.data.duration }}</itunes:duration>
         </item>
         {% endfor %}
