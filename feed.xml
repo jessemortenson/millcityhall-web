@@ -2,11 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Mill City Hall: Minneapolis politics, slightly ground down</title>
         <link>https://millcityhall.com</link>
         <description>A Minneapolis politics podcast hosted by four-term city council member Cam Gordon and longtime activist Jesse Mortenson.</description>
+        <itunes:summary>A Minneapolis politics podcast hosted by four-term city council member Cam Gordon and longtime activist Jesse Mortenson.</itunes:summary>
         <language>en-us</language>
         <atom:link href="https://millcityhall.com/feed.xml"
 rel="self" type="application/rss+xml" />
@@ -14,27 +16,41 @@ rel="self" type="application/rss+xml" />
         <itunes:category text="News">
             <itunes:category text="Politics" />
         </itunes:category>
+        <itunes:type>episodic</itunes:type>
         <itunes:image href="https://millcityhall.com/images/mch-logo-1400.png"/>
-        <itunes:explicit>false</itunes:explicit>
+        <image>
+            <link>https://millcityhall.com</link>
+            <title>Mill City Hall: Minneapolis politics, slightly ground down</title>
+            <url>https://millcityhall.com/images/mch-logo-1400.png</url>
+        </image>
+        <itunes:explicit>true</itunes:explicit>
         
         <item>
             <title>Big Money, Stealth Parties Shape the Landscape, w/ Robin Garwood</title>
             <link>https://millcityhall.com/episodes/2025-06-11-minneapolis-political-landscape/index.html</link>
-            <description>With unprecendented big money pouring into a full slate of city elections, we assess the Minneapolis political landscape, with special guest Robin Garwood. This episode features a deep dive on new phenomenon of political action committees acting as stealth political parties. In this context we ask the question: what could lead to the mayor getting re-elected or defeated?</description>
+            <description><![CDATA[
+                <p>With unprecendented big money pouring into a full slate of city elections, we assess the Minneapolis political landscape, with special guest Robin Garwood. This episode features a deep dive on new phenomenon of political action committees acting as stealth political parties. In this context we ask the question: what could lead to the mayor getting re-elected or defeated?</p>
+                <p><a href="https://millcityhall.com/episodes/2025-06-11-minneapolis-political-landscape/index.html">Read the show notes and find links for further reading</a></p>
+                ]]>
+            </description>
             <pubDate>Wed, 11 Jun 2025 05:00:00 +0000</pubDate>
-            <enclosure url="https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/250611-political-landscape-rough1.mp3" length="5504" type="audio/mpeg"/>
-            <guid>https://millcityhall.com/episodes/minneapolis-political-landscape</guid>
-            <itunes:duration>1:31:44</itunes:duration>
+            <enclosure url="https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/250611-political-landscape-rough1.mp3" length="88069277" type="audio/mpeg"/>
+            <guid>https://millcityhall.com/episodes/2025-06-11-minneapolis-political-landscape/index.html</guid>
+            <itunes:duration>5504</itunes:duration>
         </item>
         
         <item>
             <title>Jacob Frey - Unity Guy?!? Reviewing the State of the City Address</title>
             <link>https://millcityhall.com/episodes/2025-05-28-state-of-the-city/index.html</link>
-            <description>In May, Jacob Frey gave the official campaign speech for the city... no wait, we mean State of the City speech. Cam and Jesse share highlights from the claims he made about Minneapolis and react.</description>
+            <description><![CDATA[
+                <p>In May, Jacob Frey gave the official campaign speech for the city... no wait, we mean State of the City speech. Cam and Jesse share highlights from the claims he made about Minneapolis and react.</p>
+                <p><a href="https://millcityhall.com/episodes/2025-05-28-state-of-the-city/index.html">Read the show notes and find links for further reading</a></p>
+                ]]>
+            </description>
             <pubDate>Wed, 28 May 2025 05:00:00 +0000</pubDate>
-            <enclosure url="https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/250528-state-of-city-final.mp3" length="4554" type="audio/mpeg"/>
-            <guid>https://millcityhall.com/episodes/state-of-the-city</guid>
-            <itunes:duration>1:15:54</itunes:duration>
+            <enclosure url="https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/250528-state-of-city-final.mp3" length="72865330" type="audio/mpeg"/>
+            <guid>https://millcityhall.com/episodes/2025-05-28-state-of-the-city/index.html</guid>
+            <itunes:duration>4554</itunes:duration>
         </item>
         
     </channel>
