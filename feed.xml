@@ -18,13 +18,23 @@ rel="self" type="application/rss+xml" />
         <itunes:explicit>false</itunes:explicit>
         
         <item>
-            <title>Frey - Trust in Government Guy? Reviewing the State of the City Address</title>
-            <link>https://millcityhall.com/episodes/2025-06-08-state-of-the-city/index.html</link>
+            <title>Big Money, Stealth Parties Shape the Landscape, w/ Robin Garwood</title>
+            <link>https://millcityhall.com/episodes/2025-06-11-minneapolis-political-landscape/index.html</link>
+            <description>With unprecendented big money pouring into a full slate of city elections, we assess the Minneapolis political landscape, with special guest Robin Garwood. This episode features a deep dive on new phenomenon of political action committees acting as stealth political parties. In this context we ask the question: what could lead to the mayor getting re-elected or defeated?</description>
+            <pubDate>Wed, 11 Jun 2025 05:00:00 +0000</pubDate>
+            <enclosure url="https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/250611-political-landscape-rough1.mp3" length="5504" type="audio/mpeg"/>
+            <guid>https://millcityhall.com/episodes/minneapolis-political-landscape</guid>
+            <itunes:duration>1:31:44</itunes:duration>
+        </item>
+        
+        <item>
+            <title>Jacob Frey - Unity Guy?!? Reviewing the State of the City Address</title>
+            <link>https://millcityhall.com/episodes/2025-05-28-state-of-the-city/index.html</link>
             <description>In May, Jacob Frey gave the official campaign speech for the city... no wait, we mean State of the City speech. Cam and Jesse share highlights from the claims he made about Minneapolis and react.</description>
-            <pubDate>Sun, 08 Jun 2025 05:00:00 +0000</pubDate>
-            <enclosure url="https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/250528-state-of-city-rough.mp3" length="4571" type="audio/mpeg"/>
+            <pubDate>Wed, 28 May 2025 05:00:00 +0000</pubDate>
+            <enclosure url="https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/250528-state-of-city-final.mp3" length="4554" type="audio/mpeg"/>
             <guid>https://millcityhall.com/episodes/state-of-the-city</guid>
-            <itunes:duration>1:16:11</itunes:duration>
+            <itunes:duration>1:15:54</itunes:duration>
         </item>
         
     </channel>
