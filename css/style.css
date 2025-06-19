@@ -271,3 +271,13 @@ img.headshot {
   outline: none;
   border-color: rgba(255, 255, 255, 0.5);
 }
+
+.rss-icons {
+  justify-content: center;
+  gap: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.rss-icons a {
+  display: block;
+}
