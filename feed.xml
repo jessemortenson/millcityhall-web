@@ -13,6 +13,9 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
         <atom:link href="https://millcityhall.com/feed.xml"
 rel="self" type="application/rss+xml" />
         <itunes:author>Cam Gordon and Jesse Mortenson</itunes:author>
+        <itunes:owner>
+            <itunes:email>contact@millcityhall.com</itunes:email>
+        </itunes:owner>
         <itunes:category text="News">
             <itunes:category text="Politics" />
         </itunes:category>
