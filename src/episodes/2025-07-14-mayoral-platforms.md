@@ -20,6 +20,8 @@ Don't forget to check out:
 
 ## Production notes
 
+Robin has officialy joined as a co-host!
+
 We recorded inside this time, swapping rain/power tool/siren noise for occasional old dog panting noise! Better overall?
 
 ## Further reading
