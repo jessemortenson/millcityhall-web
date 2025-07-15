@@ -281,3 +281,8 @@ img.headshot {
 .rss-icons a {
   display: block;
 }
+
+.episode-more-link {
+  margin-top: 0.5rem;
+  text-align: right;
+}
