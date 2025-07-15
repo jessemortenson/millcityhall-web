@@ -7,12 +7,12 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Mill City Hall: Minneapolis politics, slightly ground down</title>
         <link>https://millcityhall.com</link>
-        <description>A Minneapolis politics podcast hosted by four-term city council member Cam Gordon and longtime activist Jesse Mortenson.</description>
-        <itunes:summary>A Minneapolis politics podcast hosted by four-term city council member Cam Gordon and longtime activist Jesse Mortenson.</itunes:summary>
+        <description>A Minneapolis politics podcast hosted by four-term Ward 2 city council veterans Cam Gordon and Robin Garwood, with longtime activist Jesse Mortenson</description>
+        <itunes:summary>A Minneapolis politics podcast hosted by four-term Ward 2 city council veterans Cam Gordon and Robin Garwood, with longtime activist Jesse Mortenson</itunes:summary>
         <language>en-us</language>
         <atom:link href="https://millcityhall.com/feed.xml"
 rel="self" type="application/rss+xml" />
-        <itunes:author>Cam Gordon and Jesse Mortenson</itunes:author>
+        <itunes:author>Cam Gordon, Robin Garwood, and Jesse Mortenson</itunes:author>
         <itunes:owner>
             <itunes:email>contact@millcityhall.com</itunes:email>
         </itunes:owner>
