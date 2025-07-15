@@ -27,6 +27,16 @@ Cam was born in Minneapolis and continues to be a long-term resident of the Sewa
 
 Cam publishes [a monthly column in Southside Pride](https://southsidepride.com/category/columnists/cam-gordon/cams-corner/).
 
+### Robin Garwood
+
+<img src="/images/robin_garwood_headshot_square.png" alt="Robin Garwood headshot" class="headshot">
+
+Robin also worked in the City Council for 16 years, serving as Cam's policy aide. He has years of experience trying to push both policy and politics forward in Minneapolis: in addition to managing Cam's campaigns, he has been a strategy and policy resource for a number of other campaigns over the years.
+
+You can tap Robin on any number of issues, but the climate emergency is often on his mind. Robin is also an artist, and the human impact on the environment is a focus that has shown up in his print work illustrating watersheds (currently displayed at the [MN Center for Book Arts](https://mnbookarts.org/exhibitions-upload/main-gallery-studiomates-creating-in-shared-space)), a forthcoming book on his [2022 sole canoe trip down the length of the Mississippi River](https://robingarwood.com/section/508944-gone%20on%20the%20river.html), and his 2016 Northern Spark installation, [Wishing Well](https://robingarwood.com/section/480657-wishing%20well.html).
+
+Now living in the Frogtown neighborhood of Saint Paul, Robin lived in Minneapolis for quite a long time, after growing up in a few points around the Twin Cities. You can find his projects at [robingarwood.com](https://robingarwood.com/).
+
 ### Jesse Mortenson
 
 <img src="/images/jesse_mortenson_headshot_450_square.png" alt="Jesse Mortenson headshot" class="headshot">
@@ -44,3 +54,5 @@ Have a story tip or feedback? You can find us via:
 - [email](mailto:contact@millcityhall.com)
 - [Jesse on BlueSky](https://bsky.app/profile/jk9.bsky.social)
 - [Cam on Facebook](https://www.facebook.com/CamA.Gordon)
+- [Robin on Instagram](https://www.instagram.com/robingarwood37/)
+
