@@ -2,13 +2,13 @@
 layout: episode.njk
 title: Omar Fateh Endorsed?!?! and We Fix City Conventions, with Convention Correspondent angela olson
 date: 2025-07-25T02:05:00.0-5
-description: "We break down the historic result from last weekend's DFL city convention: the endorsement of Sen. Omar Fateh for Mayor. What made this possible, when almost everybody (including us) was predicting an outcome of no endorsement? We were joined by angela olson, who participated as a delegate, to share a direct account of what it felt like on the floor. Stick around for the second half, when we dive into the question of WHY these conventions are so painful, and how we think they could be a lot better. Recorded 7/23/25."
+description: "We break down the historic result from the DFL city convention last weekend: the endorsement of Sen. Omar Fateh for Mayor. What made this possible, when almost everybody (including us) was predicting an outcome of no endorsement? We were joined by angela olson, who participated as a delegate, to share a direct account of what it felt like on the floor. Stick around for the second half, when we dive into the question of WHY these conventions are so painful, and how we think they could be a lot better. Recorded 7/23/25."
 audioUrl: https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/250723-city-convention.mp3
 audioFileSize: 116280161
 duration: "7267"
 ---
 
-We break down the historic result from last weekend's DFL city convention: the endorsement of Sen. Omar Fateh for Mayor. What made this possible, when almost everybody (including us) was predicting an outcome of no endorsement? We were joined by [angela olson](https://bsky.app/profile/amoridesabike.bsky.social), who participated as a delegate, to share a direct account of what it felt like on the floor. Stick around for the second half, when we dive into the question of WHY these conventions are so painful, and how we think they could be a lot better.
+We break down the historic result from the DFL city convention last weekend: the endorsement of Sen. Omar Fateh for Mayor. What made this possible, when almost everybody (including us) was predicting an outcome of no endorsement? We were joined by [angela olson](https://bsky.app/profile/amoridesabike.bsky.social), who participated as a delegate, to share a direct account of what it felt like on the floor. Stick around for the second half, when we dive into the question of WHY these conventions are so painful, and how we think they could be a lot better.
 
 We recorded this episode on 7/23/25.
 
