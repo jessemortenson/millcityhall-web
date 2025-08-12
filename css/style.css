@@ -38,6 +38,48 @@ main li {
   margin: 0.5rem 0;
 }
 
+main blockquote {
+  margin: 2rem 0;
+  padding: 1.5rem 2rem;
+  border-left: 4px solid var(--primary-color);
+  background-color: #f8f9fa;
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  position: relative;
+}
+
+main blockquote::before {
+  content: "\201C";
+  font-size: 3rem;
+  color: var(--primary-color);
+  position: absolute;
+  top: -0.5rem;
+  left: 1rem;
+  font-family: Georgia, serif;
+}
+
+main blockquote p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+main blockquote p:not(:last-child) {
+  margin-bottom: 1rem;
+}
+
+main blockquote cite {
+  display: block;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: var(--secondary-color);
+  font-style: normal;
+  font-weight: 500;
+}
+
+main blockquote cite::before {
+  content: "— ";
+}
+
 header {
   text-align: center;
   margin-bottom: 3rem;
