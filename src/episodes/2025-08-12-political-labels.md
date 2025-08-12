@@ -1,0 +1,147 @@
+---
+layout: episode.njk
+title: Pragmatic or just plain conservative? Political labels and what they hide and reveal
+date: 2025-08-12T07:05:00.0-5
+description: "A minor obsession over political labels has broken out this year, with the Frey faction painting a picture of DSA extremists versus pragmatic progressive champions. But what do these labels really reveal, or hide? And what is conservativism, anyway? We dive in to explore this idea with inspiration from Corey Robin, author of The Reactionary Mind. Recorded 8/6/25."
+audioUrl: https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/250806-political-labels.mp3
+audioFileSize: 127504381
+duration: "7969"
+---
+
+A minor obsession over political labels has broken out this year, with the Frey faction painting a picture of DSA extremists versus pragmatic progressive champions. But what do these labels really reveal, or hide? And what is conservativism, anyway? We dive in to explore this idea with inspiration from Corey Robin, author of The Reactionary Mind.
+
+We recorded this episode on 8/6/25.
+
+Don't forget to check out:
+
+* [Cam's columns in Southside Pride](https://southsidepride.com/category/columnists/cam-gordon/cams-corner/)
+
+
+## Further reading
+
+### Books we referenced re: conservativsm/reaction
+
+* [The Reactionary Mind](https://moonpalacebooks.com/item/kI9pB5oyX2Yirz7RdS3Flg) by Corey Robin. This is the primary inspiration for treatment of conservativism/reaction as a social phenomenon in the episode.
+* [The Cruelty is the Point](https://moonpalacebooks.com/item/DayRjyMnwHmvvoS7n80_SQ) by Adam Serwer. Collection of his essays (mostly from [the Atlantic](https://www.theatlantic.com/author/adam-serwer/)). Jesse's favorite writer on Trump/MAGA.
+
+> Trump’s great political insight was that Obama’s time in office inflicted a profound psychological wound upon many white Americans, one that he could remedy by adopting the false narrative that placed the first black president outside the bounds of American citizenship. He intuited that Obama’s presence in the White House decreased the value of what W. E. B. Du Bois described as the “psychological wage” of whiteness across all classes of white Americans, and that the path to their hearts lay in invoking a bygone past when this affront had not taken place, and could not take place.
+> <cite>[The Nationalist’s Delusion
+](https://www.theatlantic.com/politics/archive/2017/11/the-nationalists-delusion/546356/)</cite>
+
+* [Caste](https://moonpalacebooks.com/item/DayRjyMnwHls2eF8U-duJQ) by Isabel Wilkerson also got a brief reference in the episode.
+
+
+### Quotations from The Reactionary Mind
+
+> ...what conservatism is: a meditation on - and theoretical rendition of - the felt experience of having power, seeing it threatened, and trying to win it back.
+
+> Because there is so much confusion about conservatism's opposition to the left, it is important about what the conservative is and is not opposing in the left. It is not change in the abstract. No conservative opposes change as such or defends order as such. The conservative defends particular orders - hierarchical, often private regimes of rule - on the assumption, in part, that hierarchy is order.
+
+> In every social movement or revolutionary moment, reformers and radicals have to invent - or rediscover - the idea that inequality and social hierarchy are not natural phenomena but human creations. If hierarchy can be created by men and women, it can be uncreated by men and women, and that is what a social movement or revolution sets out to do. .. Conservatives learn a version of the same lesson. Where their predecessors in the old regime thought of inequality as a naturally occurring phenomenon, an inheritance passed on from generation to generation, the conservatives' encounter with revolution teaches them that the revolutionaries were right after all: inequality IS a human creation. And if it can be uncreated by men and women, it can be recreated by men and women.
+
+> ...once the old regime is threatened or toppled, the conservative is forced to realize that it is human agency, the willed imposition of intellect and imagination upon the world, that generates and maintains inequality across time.
+
+> Conservatism is about power besieged and power protected. It is an activist doctrine for an activist time. It waxes in response to movements from below and wanes in response to their disappearance.
+
+> While conservatives are hostile to the goals of the left, particularly the empowerment of society's lower castes and classes, they often are the left's best students. Sometimes, their studies are self-conscious and strategic, as they look to the left for ways to bend new vernaculars, or new media, to their suddenly deligitimated aims.
+
+> Conservatism adapts and adopts, often unconsciously, the language of democratic reform to the cause of hierarchy.
+
+> The conservative... speaks for a special type of victim: one who has lost something of value, as opposed to the wretched of the earth, whose chief complaint is that that never had anything to lose.
+
+> ...conservatism really does speak to and for people who have lost something... The loss may be as material as money or as ethereal as a sense of standing. It may be a loss of something that was never legitimately owned in the first place. It may, when compared with what the conservative retains, be small. Even so, it is a loss, and nothing is ever so cherished as that which we no longer possess.
+
+
+### List of "Pragmatic Progressives"
+
+- Jacob Frey
+  > Minneapolis has a chance to become a national model for how Democratic cities can combine pragmatic progressive values with effective governance to guarantee every resident, no matter race, income, orientation, or faith, a home they can afford, a safe neighborhood, and a life of dignity. That’s not a slogan; it’s a choice. Big cities stand at a crossroads. One road chases headlines and political wins, leaving working families behind. The other confronts problems with data, expertise, and a healthy dose of pragmatism, measuring success in lives changed and neighborhoods improved. Minneapolis must continue down the latter path to keep making progress.
+  > <cite>[https://www.jacobfrey.org/progres](https://www.jacobfrey.org/progres)</cite>
+  > (yes the URL at press time is /progres - if this breaks later maybe add an s)
+  
+  > We must love our city more than our ideology"
+
+  - Endorsement of Luther Ranheim 2023: 
+  > Luther Ranheim will be a pragmatic progressive who will listen to all voices in Ward 12, not just the loudest ones. He is the candidate that can be trusted to support common-sense policy on public safety and the 3rd Police Precinct. And he understands that delivering excellent city services and achieving change requires collaboration and an honest approach. I know how hard Luther will work to deliver on those values for Ward 12, which is why I’m proud to endorse him.
+  > <cite>[https://www.instagram.com/p/Cyo5jAMMNfY/](https://www.instagram.com/p/Cyo5jAMMNfY/)</cite>
+- Palmisano
+  - From resident endorsement on her website: "Linea is a pragmatic progressive"
+    > [https://lineapalmisano.org/endorsements](https://lineapalmisano.org/endorsements)
+- All of Minneapolis
+  - "Our Pragmatic Champions"
+    > [https://www.allofmpls.org/](https://www.allofmpls.org/)
+- Don Samuels, 2024
+  > Samuels calls himself a “pragmatic progressive” who has sided with Omar on many issues, including the need to protect abortion rights and fight climate change and homelessness. “I will always pull against the chain for change, but I’m very pragmatic about it,” he said.
+  > <cite>[https://www.minnpost.com/national/2024/04/ilhan-omar-the-squad-don-samuels-congress-rematch/](https://www.minnpost.com/national/2024/04/ilhan-omar-the-squad-don-samuels-congress-rematch/)</cite>
+- Andrea Jenkins, 2023
+  > Minneapolis City Council President Andrea Jenkins and challenger Soren Stevenson share similar views on major issues like affordable housing, police reform and racial equity. However, Jenkins, a self-titled “pragmatic progressive,” isn’t progressive enough for some who want to see a majority on the council that will stand up to a “strong mayor.”
+  > <cite>[https://www.mprnews.org/story/2023/10/26/race-in-mpls-8th-ward-pits-council-president-vs-strong-challenger](https://www.mprnews.org/story/2023/10/26/race-in-mpls-8th-ward-pits-council-president-vs-strong-challenger)</cite>
+- Scott Graham, 2023
+  > [https://x.com/scottformpls/status/1720510680048992621](https://x.com/scottformpls/status/1720510680048992621)
+  > I am grateful to be endorsed by Engage Minneapolis, a group committed to electing pragmatic progressive leaders who represent all Minneapolis residents. Check out all our campaign's endorsements at [http://](https://t.co/HWj7pyMDpY)[scottformpls.com/endorsements](https://t.co/HWj7pyMDpY).
+- Peggy Flanagan, 2025 calls Elizabeth Warren "pragmatic progressive"
+  > Senator Elizabeth Warren is a longtime hero of mine and a pragmatic progressive champion. I’m proud to have earned her endorsement.
+  > --<cite>[https://www.instagram.com/reel/DJp8TK3uL84/?hl=en](https://www.instagram.com/reel/DJp8TK3uL84/?hl=en)</cite>
+- Walz, 2024
+  - characterized by Larry Jacobs:
+  > Walz has remained what I would call a pragmatic progressive. There are significant pieces of legislation that he negotiated and pushed back on the progressives on the state legislature. There's some that he blocked. He was not just a rubber stamp for the left," said Larry Jacobs, a politics professor at the University of Minnesota.
+  > <cite> [https://www.cbsnews.com/minnesota/news/why-kamala-harris-picked-minnesota-gov-tim-walz-vp/](https://www.cbsnews.com/minnesota/news/why-kamala-harris-picked-minnesota-gov-tim-walz-vp/)</cite>
+- JB Pritzger, 2024, 2020
+  - "Self-described pragmatic progressive"
+    > [https://archive.ph/efRpH](https://archive.ph/efRpH)
+  > As a pragmatic progressive, I’m a passionate believer that fiscal responsibility and progressive values go hand in hand.
+  > <cite>[https://www.instagram.com/p/B8kAvwQhoF9/](https://www.instagram.com/p/B8kAvwQhoF9/)</cite>
+- Ritchie Torres, 2024, 2021
+  > I think of myself as a pragmatic progressive. Pragmatic progressivism is about harnessing innovations like Starlink to achieve progressive goals like closing the digital divide."
+  > <cite> [https://x.com/RitchieTorres/status/1857894833433751968](https://x.com/RitchieTorres/status/1857894833433751968)</cite>
+
+  > For me as a pragmatic, progressive, I set goals that reflect my moral values, but then how I measure progress for achieving those goals in the real world, that’s a deeply empirical enterprise. So I feel like you have to consider both."
+  > <cite>[https://podcasts.apple.com/us/podcast/the-pragmatic-progressive-with-rep-ritchie-torres/id1265845136?i=1000528950184](https://podcasts.apple.com/us/podcast/the-pragmatic-progressive-with-rep-ritchie-torres/id1265845136?i=1000528950184)</cite>
+- Dean Phillips, 2021
+  >  I'm a pragmatic progressive
+  > <cite>[https://www.facebook.com/watch/?v=292851245511732](https://www.facebook.com/watch/?v=292851245511732)</cite>
+- MeidasTouch podcast, 2021
+  > You know, cause we were never political per se, and we were never into like certain political labels. And we decided we landed on the phrase pragmatic progressives.
+- Andrew Cuomo, 2018
+  > My father’s philosophy: he called himself a “pragmatic progressive” – restoring confidence in government by actually delivering practical accomplishments: people need food, people need housing, people need education, people need justice – they don’t need theoretical progressive politics, they need practical politics, actual politics, that makes a difference in their lives because they’re suffering today and they need life made better for them.
+  > <cite> [https://hcr.ny.gov/governor-cuomo-outlines-2018-agenda-realizing-promise-progressive-government](https://hcr.ny.gov/governor-cuomo-outlines-2018-agenda-realizing-promise-progressive-government)</cite>
+
+### All of Minneapolis PAC labels thrown at political opponents
+
+ > The Defund the Police movement in Minneapolis is far from over. Despite the defeat of their ballot initiative in 2021, some members of the City Council have shifted to lower profile work to undermine public safety in our city. Defund has become Denigrate, Divest, Demoralize. This is what we’re up against. Please take a few minutes to read Commissioner Barnette’s op-ed and share it with your friends and neighbors. We must stand together for a safer Minneapolis!
+> <cite>[https://www.instagram.com/allofmpls/p/DF8-yCqOT5w/](https://www.instagram.com/allofmpls/p/DF8-yCqOT5w/)</cite>
+
+> Omar Fateh advocates for abolishing the police department entirely."
+> <cite>[https://www.instagram.com/p/DMtQuI4SFqX/](https://www.instagram.com/p/DMtQuI4SFqX/)</cite>
+
+> It’s a comprehensive effort that is in stark contrast from the tear-it-all-down approach Senator Fateh has advocated for time and time again.
+> -<cite> [https://www.instagram.com/p/DL50eSLyXeI/](https://www.instagram.com/p/DL50eSLyXeI/)</cite>
+
+> Senator Fateh supports a different policy known as “rent control”. Passed in our neighboring city of St. Paul, it has hurt housing supply so deeply that the city has recently walked back the policy."
+> <cite>[https://www.instagram.com/p/DMBFgJ1uisg/](https://www.instagram.com/p/DMBFgJ1uisg/)</cite>
+
+> Senator Fateh took this moment as an opportunity to spread misinformation, amplify chaos, and then took it even further by advocating to discipline Chief O’Hara for things that never happened."
+> <cite> [https://www.instagram.com/p/DL8TX1fSzLW/](https://www.instagram.com/p/DL8TX1fSzLW/)</cite>
+
+- Criticism from DSA over being labeled: 
+
+> If you’re on the email list for pro-business, pro-police PAC All of Mpls, this inflammatory language is everywhere. A recent email All of Mpls wrote, “It is critical that we stop the extremists from taking over Minneapolis.” At a recent City Council hearings a speaker took cues from All of Mpls messaging, attacking supporters of police reform as “violent, ideological mercenaries.”'
+> <cite>[https://www.minnpost.com/community-voices/2024/09/inflammatory-rhetoric-by-all-of-mpls-hurts-democracy/](https://www.minnpost.com/community-voices/2024/09/inflammatory-rhetoric-by-all-of-mpls-hurts-democracy/)</cite>
+
+### Carol Becker's Taxonomy of Politics
+
+From: [Why We Talk So Much About the Difference Between Moderate Democrats and Socialists](https://minneapolistimes.com/why-we-talk-so-much-about-the-difference-between-moderate-democrats-and-socialists/)
+
+* Anarchy: No government, everyone is free to do whatever they want.
+* Libertarianism: Very limited government. Milton Friedman would say government exists to provide national defense, enforce contracts, police, take care of “madman and children”, and maybe provide a few roads. Nothing else.
+* Far-right: A very limited role for government but a bit more than Friedman.
+* Moderate right: We have government, but it is limited.
+* Moderate left: We have more government, but it is still limited.
+* Far-left: We have a lot of government with a lot of intrusion into many aspects of our lives.
+* Socialism: Government controls businesses or whole industries and has substantial control of people’s lives. Think of this like a city-owned grocery store or city-owned bank or expecting government to provide transportation for everyone.
+* Communism: Government owns all businesses in the economy.
+
+⚔️⚔️⚔️ Maggie Mentioned! ⚔️⚔️⚔️
+
+> Margaret Thatcher famously said, “The problem with socialism is that you eventually run out of other people’s money.”
+
