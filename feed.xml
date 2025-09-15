@@ -29,6 +29,20 @@ rel="self" type="application/rss+xml" />
         <itunes:explicit>true</itunes:explicit>
         
         <item>
+            <title>Bonus Episode: Full interview with Frank</title>
+            <link>https://millcityhall.com/episodes/2025-09-15-frank-interview/index.html</link>
+            <description><![CDATA[
+                <p>This bonus episode is the full interview Jesse did with his old friend, Frank. They talked about Frank&amp;apos;s experiences of homelessness and mental illness, and his reactions to recent dehumanizing rhetoric from local and national politicians. We previously featured clips from this interview in our 8/27/25 episode. Recorded 8/23/25.</p>
+                <p><a href="https://millcityhall.com/episodes/2025-09-15-frank-interview/index.html">Read the show notes and find links for further reading</a></p>
+                ]]>
+            </description>
+            <pubDate>Mon, 15 Sep 2025 21:05:00 +0000</pubDate>
+            <enclosure url="https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/250823-frank-interview.mp3" length="44031992" type="audio/mpeg"/>
+            <guid>https://millcityhall.com/episodes/2025-09-15-frank-interview/index.html</guid>
+            <itunes:duration>2751</itunes:duration>
+        </item>
+        
+        <item>
             <title>Dehumanizing the unhoused, from Frey to Fascism, w/ Flannery Clark and Frank</title>
             <link>https://millcityhall.com/episodes/2025-08-27-dehumanizing-unhoused/index.html</link>
             <description><![CDATA[
