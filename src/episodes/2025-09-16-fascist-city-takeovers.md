@@ -29,6 +29,7 @@ Don't forget to check out:
   * [MN Immigrant Rights Action Committee](https://www.miracmn.com/)
   * [CTUL - Workers United](https://ctul.net/)
   * [IX - Renters United](https://www.inquilinxsunidxs.org/)
+* [Natonal Lawyer's Guild](https://nlgmn.org/): supporting those targeted by government repression
 * [Cam's columns in Southside Pride](https://southsidepride.com/category/columnists/cam-gordon/cams-corner/)
 
 
