@@ -29,6 +29,20 @@ rel="self" type="application/rss+xml" />
         <itunes:explicit>true</itunes:explicit>
         
         <item>
+            <title>The Story of Jacob Frey, Part 1</title>
+            <link>https://millcityhall.com/episodes/2025-10-14-frey-story-part-one/index.html</link>
+            <description><![CDATA[
+                <p>How did Jacob Frey go from pledges to collaborate with the city council and end homelessness to seemingly endless trench warfare with the council majority and rinse-and-repeat encampent sweeps? We attempt to tell the story of Jacob Frey, from running enthusiast to candidate to city councilmember to mayor to successful disaster. Recorded 10/08/25.</p>
+                <p><a href="https://millcityhall.com/episodes/2025-10-14-frey-story-part-one/index.html">Read the show notes and find links for further reading</a></p>
+                ]]>
+            </description>
+            <pubDate>Tue, 14 Oct 2025 12:05:00 +0000</pubDate>
+            <enclosure url="https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/251008-frey-part-1.mp3" length="93067685" type="audio/mpeg"/>
+            <guid>https://millcityhall.com/episodes/2025-10-14-frey-story-part-one/index.html</guid>
+            <itunes:duration>5816</itunes:duration>
+        </item>
+        
+        <item>
             <title>Big Change Ahead for the Park Board, and the BET Has Real Policy Disputes?</title>
             <link>https://millcityhall.com/episodes/2025-09-30-park-board-bet/index.html</link>
             <description><![CDATA[
