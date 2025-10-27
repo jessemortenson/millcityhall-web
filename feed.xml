@@ -29,6 +29,20 @@ rel="self" type="application/rss+xml" />
         <itunes:explicit>true</itunes:explicit>
         
         <item>
+            <title>The Story of Jacob Frey, Part 2</title>
+            <link>https://millcityhall.com/episodes/2025-10-27-frey-story-part-two/index.html</link>
+            <description><![CDATA[
+                <p>How did Jacob Frey go from pledges to collaborate with the city council and end homelessness to seemingly endless trench warfare with the council majority and rinse-and-repeat encampent sweeps? In this second part of two, we continue to tell the story of Jacob Frey, starting with the crisis following the murder of George Floyd. Recorded 10/08/25.</p>
+                <p><a href="https://millcityhall.com/episodes/2025-10-27-frey-story-part-two/index.html">Read the show notes and find links for further reading</a></p>
+                ]]>
+            </description>
+            <pubDate>Mon, 27 Oct 2025 12:05:00 +0000</pubDate>
+            <enclosure url="https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/251026-jacob-frey-part-2.mp3" length="78349255" type="audio/mpeg"/>
+            <guid>https://millcityhall.com/episodes/2025-10-27-frey-story-part-two/index.html</guid>
+            <itunes:duration>4896</itunes:duration>
+        </item>
+        
+        <item>
             <title>The Story of Jacob Frey, Part 1</title>
             <link>https://millcityhall.com/episodes/2025-10-14-frey-story-part-one/index.html</link>
             <description><![CDATA[
