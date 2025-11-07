@@ -29,6 +29,20 @@ rel="self" type="application/rss+xml" />
         <itunes:explicit>true</itunes:explicit>
         
         <item>
+            <title>Election Day-After Reactions</title>
+            <link>https://millcityhall.com/episodes/2025-11-07-election-day-after/index.html</link>
+            <description><![CDATA[
+                <p>Election results landed and Minneapolis progressives are likely feeling a bit left out of the national enthusiasm. There are definitely some wins! but how did Jacob hang on to his base so tenaciously? was the strategy wrong? Day-after analysis is suspect, but you gotta start somewhere. Recorded 11/05/25.</p>
+                <p><a href="https://millcityhall.com/episodes/2025-11-07-election-day-after/index.html">Read the show notes and find links for further reading</a></p>
+                ]]>
+            </description>
+            <pubDate>Fri, 07 Nov 2025 22:05:00 +0000</pubDate>
+            <enclosure url="https://millcityhall-public.s3.us-east-1.amazonaws.com/audio/251105-election-hangover-filter-mode.mp3" length="73089220" type="audio/mpeg"/>
+            <guid>https://millcityhall.com/episodes/2025-11-07-election-day-after/index.html</guid>
+            <itunes:duration>4568</itunes:duration>
+        </item>
+        
+        <item>
             <title>The Story of Jacob Frey, Part 2</title>
             <link>https://millcityhall.com/episodes/2025-10-27-frey-story-part-two/index.html</link>
             <description><![CDATA[
