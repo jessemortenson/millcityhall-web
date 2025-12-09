@@ -105,9 +105,15 @@ header h2 {
   margin-top: 0;
   font-size: 2rem;
 }
+body.not-homepage header h2 {
+  display: none;
+}
 
 header h3 {
   font-size: 1.2rem;
+}
+body.not-homepage header h3 {
+  display: none;
 }
 
 /* Navigation styles */
@@ -250,6 +256,9 @@ img.headshot {
 @media (max-width: 768px) {
   header img {
     width: 100%;
+  }
+  body.not-homepage header img {
+    width: 40%;
   }
 
   header h2 {
