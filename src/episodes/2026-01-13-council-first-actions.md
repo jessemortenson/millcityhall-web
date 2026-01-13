@@ -42,7 +42,7 @@ Votes
   - Payne 8-5
 - Vice President
   - Osman 7-6
-    - Whiting switches from YES (president) to NO (vice-president) after nominating Palmissano
+    - Whiting switches from YES (president) to NO (vice-president) after nominating Palmisano
 - Postpone votes on the majority/minority leader position
   - FAILS 6-7
 - Majority leader
