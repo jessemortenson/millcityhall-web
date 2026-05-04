@@ -1,7 +1,7 @@
 ---
 layout: episode.njk
 title: "The Charter Commission Must Be Destroyed?"
-date: 2026-05-04T20:05:00.0-5
+date: 2026-05-04T17:05:00.0-5
 description: "Once again the Mpls Charter Commission has proposed to diminish the power of the City Council, this time with confusing amendment language that would strip from the the Council the ability to review a number of high-level city staff appointments. This does not come out of the blue: we trace the lineage of people using the Charter Commission as a decisive instrument of City Father-style politics over the last decade. We also discuss what democracy means to us at the local level, and how that intersects with shifts to government structure and unelected bodies putting a finger on the scale. Recorded 4/29/26."
 audioUrl: https://millcityhall-downloads.b-cdn.net/260429-charter-commission-appointments.mp3
 audioFileSize: 121541705
