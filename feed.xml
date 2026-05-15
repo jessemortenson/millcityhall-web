@@ -29,6 +29,20 @@ rel="self" type="application/rss+xml" />
         <itunes:explicit>true</itunes:explicit>
         
         <item>
+            <title>Interview: Chicago Bike Grid, Now!</title>
+            <link>https://millcityhall.com/episodes/2026-05-15-chicago-bike-grid-now/index.html</link>
+            <description><![CDATA[
+                <p>The vision: build pedestrian and bike safety on 10% of all streets - 450 miles - connected in a grid throughout Chicago. Mill City Hall is in the Windy City this week, and we interviewed Charna Albert and Chris Buie-Gentry from the Chicago Bike Grid, Now! steering committee. Turns out they have built some real momentum, with endorsements from mayoral candidates and legislation moving at the state level. What can we learn this efforts to create a truly systemic solution for active transportation? Recorded 5/11/26.</p>
+                <p><a href="https://millcityhall.com/episodes/2026-05-15-chicago-bike-grid-now/index.html">Read the show notes and find links for further reading</a></p>
+                ]]>
+            </description>
+            <pubDate>Fri, 15 May 2026 17:05:00 +0000</pubDate>
+            <enclosure url="https://millcityhall-downloads.b-cdn.net/260515-bike-grid-now-2.mp3" length="80384256" type="audio/mpeg"/>
+            <guid>https://millcityhall.com/episodes/2026-05-15-chicago-bike-grid-now/index.html</guid>
+            <itunes:duration>5023</itunes:duration>
+        </item>
+        
+        <item>
             <title>The Charter Commission Must Be Destroyed?</title>
             <link>https://millcityhall.com/episodes/2026-05-04-charter-comm-appointments/index.html</link>
             <description><![CDATA[
