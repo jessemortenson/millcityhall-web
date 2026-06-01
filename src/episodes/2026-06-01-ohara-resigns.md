@@ -1,8 +1,8 @@
 ---
 layout: episode.njk
-title: "Police Chief O'Hara Resigns Just Weeks After Nomination"
+title: "Police Chief Resigns Just Weeks After Nomination"
 date: 2026-06-01T16:05:00.0-5
-description: "Just weeks after Mayor Frey challenged the City Council to support the re-nomination of his Police Chief, that same Chief has resigned under threat of discharge by that same Mayor. It is hard to remember a more dramatic climbdown in recent city politics. But for this Mayor, it is one of a series of high profile public safety hires to end in disappointment. We talk through what was said, speculate on what actually happened, review the O'Hara Era, and talk about what could and should happen next. Stick around past hour two if you want some Rocco Forte talk. Recorded 5/27/26."
+description: "Just weeks after Mayor Frey challenged the City Council to support the re-nomination of his Police Chief, that same Chief has resigned under threat of discharge by that same Mayor. It is hard to remember a more dramatic climbdown in recent city politics. But for this Mayor, it is one of a series of high profile public safety hires to end in disappointment. We talk through what was said, speculate on what actually happened, review the last four years of MPD leadership, and talk about what could and should happen next. Stick around past hour two if you want some Rocco Forte talk. Recorded 5/27/26."
 audioUrl: https://millcityhall-downloads.b-cdn.net/260527-o-hara-resigns.mp3
 audioFileSize: 144382056
 duration: "9023"
