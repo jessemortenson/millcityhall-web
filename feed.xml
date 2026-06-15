@@ -29,6 +29,20 @@ rel="self" type="application/rss+xml" />
         <itunes:explicit>true</itunes:explicit>
         
         <item>
+            <title>Data Centers, Office Conversions and the Vacancy Dilemma</title>
+            <link>https://millcityhall.com/episodes/2026-06-15-data-centers/index.html</link>
+            <description><![CDATA[
+                <p>As anger at the Big Tech data center boom seems to be boiling across layers of society, data center politics landed in Minneapolis last month. The City Council passed a temporary moratorium - with generous exceptions - on new data centers in the city. We look at some of the data center projects that exist today, and those that appear to be in-progress. How do we think about hyperscale? We also examine the downtown vacancy dilemma, and the challenges and tradeoffs between data center conversions and housing conversions. When and how do data centers make sense in Minneapolis? Recorded 6/10/26.</p>
+                <p><a href="https://millcityhall.com/episodes/2026-06-15-data-centers/index.html">Read the show notes and find links for further reading</a></p>
+                ]]>
+            </description>
+            <pubDate>Mon, 15 Jun 2026 21:05:00 +0000</pubDate>
+            <enclosure url="https://millcityhall-downloads.b-cdn.net/260610-data-centers.mp3" length="137878927" type="audio/mpeg"/>
+            <guid>https://millcityhall.com/episodes/2026-06-15-data-centers/index.html</guid>
+            <itunes:duration>8617</itunes:duration>
+        </item>
+        
+        <item>
             <title>Police Chief Resigns Just Weeks After Nomination</title>
             <link>https://millcityhall.com/episodes/2026-06-01-ohara-resigns/index.html</link>
             <description><![CDATA[
