@@ -3,9 +3,9 @@ layout: episode.njk
 title: "Roundup: Minnehaha Dog Park Decommission, and a Home for Anishnabe Academy"
 date: 2026-07-10T07:05:00.0-5
 description: "The Park Board voted 8-1 to begin the work of decommissioning the well-used Minnehaha off-leash dog park. We tackle how this emerges from the efforts of that board to meaningfully incorporate Native folks as important community stakeholders, and also the loud backlash that the Board now must manage. Cam also reports on efforts by Minneapolis Schools to build a permanent home for the Anishnabe Academy magnet school at the former Cooper School site. Recorded 6/24/26."
-audioUrl: https://millcityhall-downloads.b-cdn.net/260624-dog-park-anishnabe-academy.mp3
-audioFileSize: 81385889
-duration: "5086"
+audioUrl: https://millcityhall-downloads.b-cdn.net/260624-dog-park-anishnabe-academy-edit2.mp3
+audioFileSize: 81840002
+duration: "5114"
 ---
 
 The Park Board voted 8-1 to begin the work of decommissioning the well-used Minnehaha off-leash dog park. We tackle how this emerges from the efforts of that board to meaningfully incorporate Native folks as important community stakeholders, and also the loud backlash that the Board now must manage. Cam also reports on efforts by Minneapolis Schools to build a permanent home for the Anishnabe Academy magnet school at the former Cooper School site
@@ -21,6 +21,15 @@ Though the massive ICE activity dwindled in the Spring, we still face a determin
 * [Donate to rent support and mutual aid funds](https://www.standwithminnesota.com/)
 * [Defend 612](https://defend612.com/) is an entry-point to local neighborhood organizing
 * [Monarca](https://monarcamn.org/) continues to provide trainings for regular folks who want to help, and offers a hotline to report ICE activity: 612-441-2881
+
+## Corrections
+
+The original version of this episode that contained two mistakes that we corrected a few days later in the current (7/12/26) version of the episode audio. Those corrections are called out where the errors occurred in the audio, but for the sake of transparency they are:
+
+1. Jesse mistakenly referred to Parks Commissioner Jason Garcia as "he." Garcia's pronouns are they/them.
+2. Cam mistakenly read out the Anishnabe student population as 20 kids, but in fact there are [220](https://www.longfellownokomismessenger.com/stories/mps-plans-to-demolish-cooper-build-90-105-million-facility-for-anishinabe-academy,168315) students enrolled.
+
+We don't like to make mistakes, but when we do, the corrections from listeners are appreciated!
 
 ## Don't forget to check out:
 
