@@ -5,7 +5,7 @@ date: 2026-07-27T16:05:00.0-5
 description: "Angry resident testimony, surveillance, new technology and the ethics of hungry corporate vendors: the debate over a proposed first responder drone pilot program had a lot going on. This could still be a live issue going forward: Mayor Frey used it as a talking point just days after the vote failed. We explore this topic, including past examples of technology adoption and policy shifts by the Police Department. Recorded 7/22/26."
 audioUrl: https://millcityhall-downloads.b-cdn.net/270722-drones-first-responders.mp3
 audioFileSize: 63436954
-duration: "102074506"
+duration: "6379"
 ---
 
 Angry resident testimony, surveillance, new technology and the ethics of hungry corporate vendors: the debate over a proposed first responder drone pilot program had a lot going on. This could still be a live issue going forward: Mayor Frey used it as a talking point just days after the vote failed. We explore this topic, including past examples of technology adoption and policy shifts by the Police Department.
