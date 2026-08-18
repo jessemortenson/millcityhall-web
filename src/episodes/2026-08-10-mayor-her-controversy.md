@@ -10,7 +10,7 @@ duration: "4561"
 
 We did a rare episode of Mill City Paul, as Robin takes us through four layers of the scandal currently enveloping Mayor Kaohly Her. Her is accused of sexual harrassment and inappropriate workplace behavior. We discussed what this controversy reveals about backstage dynamics in government, as well as dynamics between elected officials and police.
 
-Recorded 7/22/26.
+Recorded 8/5/26.
 
 ## Alert
 
