@@ -2,18 +2,18 @@
 layout: episode.njk
 title: "North News on Gun Violence, the Media, and Solutions"
 date: 2026-08-25T17:05:00.0-5
-description: "North News journalists Azhae’la Hanson, Melody Hoffman, and Muhamed Ali join us to share reporting from their upcoming special issue on gun violence. North News is a monthly newspaper focusing on North Minneapolis that is dedicated to narrative justice. We talked about the local media ecosystem, including how to cover gun violence with depth (and how not to) and the specific dynamics of reporting over North. We also talked about the human and community impacts, and the importance of trust and consistency in creating programs that prevent violence. Recorded 8/19/26."
+description: "North News journalists Azhae’la Hanson, Melody Hoffmann, and Muhamed Ali join us to share reporting from their upcoming special issue on gun violence. North News is a monthly newspaper focusing on North Minneapolis that is dedicated to narrative justice. We talked about the local media ecosystem, including how to cover gun violence with depth (and how not to) and the specific dynamics of reporting over North. We also talked about the human and community impacts, and the importance of trust and consistency in creating programs that prevent violence. Recorded 8/19/26."
 audioUrl: https://millcityhall-downloads.b-cdn.net/260819_north_news_gun_violence.mp3
 audioFileSize: 101411459
 duration: "6338"
 ---
 
-North News journalists Azhae’la Hanson, Melody Hoffman, and Muhamed Ali join us to share reporting from their upcoming special issue on gun violence. North News is a monthly newspaper focusing on North Minneapolis that is dedicated to narrative justice. We talked about the local media ecosystem, including how to cover gun violence with depth (and how not to) and the specific dynamics of reporting over North. We also talked about the human and community impacts, and the importance of trust and consistency in creating programs that prevent violence.
+North News journalists Azhae’la Hanson, Melody Hoffmann, and Muhamed Ali join us to share reporting from their upcoming special issue on gun violence. North News is a monthly newspaper focusing on North Minneapolis that is dedicated to narrative justice. We talked about the local media ecosystem, including how to cover gun violence with depth (and how not to) and the specific dynamics of reporting over North. We also talked about the human and community impacts, and the importance of trust and consistency in creating programs that prevent violence.
 
 Our guests:
 
 * Azhae'la Hanson, North News reporter and youth program coordinator
-* Melody Hoffman, reporter and internship leader for North News, as well as reporter and editor for Southwest Voices
+* Melody Hoffmann, reporter and internship leader for North News, as well as reporter and editor for Southwest Voices
 * Muhamed Ali, student journalist and intern for North News
 
 Recorded 8/19/26.
