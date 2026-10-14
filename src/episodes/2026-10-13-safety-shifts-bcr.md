@@ -1,16 +1,16 @@
 ---
 layout: episode.njk
-title: "Safety Shifts pt 2: Behavioral Crisis Response Vendor Change"
-date: 2026-10-12T18:05:00.0-5
-description: "Minneapolis safety programs are facing big shifts, putting key strategies at risk. In part two, we focus on Behavioral Crisis Response (BCR). BCR was built out by a local mental health care provider, Canopy Roots, that just received a very positive evaluation earlier this year. However now city staff recommend changing vendors, just a couple months before the contract is slated to expire. Staff also want to change the scope of the program. Why change now? does this put a very successful safety program at risk of gaps in service, or even compromise its focus and excellence? Recorded 10/7/26."
-audioUrl: https://.mp3
-audioFileSize: 66570275
-duration: "4160"
+title: "Safety Shifts pt 2: Behavioral Crisis Response Faces Big Proposed Changes"
+date: 2026-10-13T18:05:00.0-5
+description: "Minneapolis safety programs are facing big shifts, putting key strategies at risk. In part two, we focus on Behavioral Crisis Response (BCR). BCR was built out by a local mental health care provider, Canopy Roots, that received a very positive evaluation this year. However, city staff now recommend changing vendors, just a couple months before the contract is slated to expire. Staff also want to change the scope of the program. Why change now? does this put a successful safety program at risk of gaps in service, or even compromise its focus and excellence? A lot of possible change is swirling around BCR at this moment, making it critical that we speak up. Recorded 10/7/26."
+audioUrl: https://millcityhall-downloads.b-cdn.net/261007-bcr-to-mcr.mp3
+audioFileSize: 81475538
+duration: "5092"
 ---
 
-Minneapolis safety programs are facing big shifts, putting key strategies at risk. In part two, we focus on Behavioral Crisis Response (BCR). BCR was built out by a local mental health care provider, Canopy Roots, that just received a very positive evaluation earlier this year. However now city staff recommend changing vendors, just a couple months before the contract is slated to expire. Staff also want to change the scope of the program. Why change now? does this put a very successful safety program at risk of gaps in service, or even compromise its focus and excellence?
+Minneapolis safety programs are facing big shifts, putting key strategies at risk. In part two, we focus on Behavioral Crisis Response (BCR). BCR was built out by a local mental health care provider, Canopy Roots, that received a very positive evaluation this year. However, city staff now recommend changing vendors, just a couple months before the contract is slated to expire. Staff also want to change the scope of the program. Why change now? does this put a successful safety program at risk of gaps in service, or even compromise its focus and excellence? A lot of possible change is swirling around BCR at this moment, making it critical that we speak up.
 
-This is Part 2 - go back and listen to Part 1 to catch the introduction.
+This is Part 2 - go back and listen to Part 1 to catch the introduction, as well as our conversation about violence interrupters facing budget cuts.
 
 Recorded 10/7/26.
 
@@ -84,17 +84,69 @@ BCR now responds 24/7 and citywide, with 40 responders handling 10k annual calls
 - 2018: 911 working group
 - 2020: City council approved recommendations re: alt safety
   - [https://mndaily.com/city/minneapolis-city-council-seeks-to-replace-some-911-calls-with-mental-health-response-team/12/09/2020/snoadmin/](https://mndaily.com/city/minneapolis-city-council-seeks-to-replace-some-911-calls-with-mental-health-response-team/12/09/2020/snoadmin/)
-- Dec 2021: Canopy Roots launched pilot service w/ 2 vans
+- 2021: Canopy Roots launched pilot service w/ 2 vans
+- 911 dispatchers send responders to emergency calls that clearly involve people in mental health crises who do not have a weapon, sometimes in tandem with Minneapolis police
 - ultimately 24/7, 40 responders, 10k annual calls
 
-- Behavioral Crisis Response teams provide 24/7 coverage
-- Black-owned company Canopy Roots
-- launched in 2021
-- 911 dispatchers send responders to emergency calls that clearly involve people in mental health crises who do not have a weapon, sometimes in tandem with Minneapolis police
-- MPR: 'goal of expanding the program to a mobile crisis response model, which would send responders to a wider range of calls, including calls involving “livability” issues, and focus more on long-term stabilization of people in crisis'
-- MPR: proposal: "Community Bridges, which runs mobile crisis teams in Arizona, Oklahoma and Idaho, will take over the city’s behavioral crisis response program"
-- new contract is worth $5.9 million from Jan. 1, 2027 to Dec. 31, 2028
+### Canopy Roots and Program Performance
 
+- [Company website](https://www.canopyrootsmn.com/)
+- Also provides services for:
+  - Brooklyn Center
+  - Metro Transit
+- [MN Justice Research Center Evaluation, Jan 2026](https://www.mnjrc.org/bcr-evaluation)
+MN Justice Research Center Evaluation, Jan 2026 [https://www.mnjrc.org/bcr-evaluation](https://www.mnjrc.org/bcr-evaluation)
+  - Somewhat limited real-world observation: 
+    - 11,000 call logs (a year’s worth of Canopy Roots' contacts)
+    - 500 community survey responses
+    - 6 direct observation sessions (ridealongs with BCR teams).
+    - 36 stakeholder interviews and 1 focus group with BCR responders, Canopy Roots’ staff and Community Advisory Board, community members, police officers, and other safety ecosystem partners
+  - Key Findings
+    - BCR perceived by other responders as filling a critical gap
+    - Canopy Roots service aligns with best practices
+    - Community strongly support BCR
+    - BCR serves diverse residents wtih serious mental illness
+  - Key recommendations
+    - Bolster data collection
+    - Move from individual cooperation to collab w community groups and the city
+    - Invest in broad education campaign to share BCR's impact
+    - Prioritize Workforce retention
+  - "Minneapolis’s choice to award its BCR contract to Canopy Roots—a local, majority Black-owned and woman-led mental health agency—reflected the community’s demand for culturally responsive, trauma-informed care"
+  - "measurable results are clear: mental health crisis response results in fewer arrests and reduced police use of force, and it boasts strong public support and an excellent safety record. The challenge now is scaling these promising models"
+  - "BCR call data could contribute to a citywide needs assessment that could impact broader policy conversations, funding decisions, and community development efforts"
+  - "Other first responders at all levels—from police leadership to patrol officers, firefighters, and county agencies—voiced consistent and growing support for BCR teams,"
+  - "less than half of community members knew about BCR before being surveyed"
+    - "once informed, support was overwhelming—91% backed unarmed alternatives to police response and 88% reported increased feelings of safety knowing the program exists."
+  - "Throughout this evaluation, the voices of responders, recipients, community members, and safety ecosystem partners have told a compelling story of a program that is reimagining how communities respond to human suffering"
+
+
+## Proposal to Change Vendor & Program Scope
+
+City staff presented a proposed contract to hire Community Bridges to replace Canopy Roots as program provider, and to switch the brand/scope of the program from Behavioral Crisis Response to "Mobile Crisis Response."
+
+The 10/7 Committee meeting moved this proposal on to the City Council with a recommendation to reject the proposed contract with Community Bridges.
+
+City documents and meetings:
+
+- [Staff presentation to Health, Public Safety and Equity Committee](https://lims.minneapolismn.gov/Download/RCAV2/55236/Mobile-Crisis-Response-Presentation.pdf) (PDF)
+- [LIMS file for Contract with Community Bridges, Inc. for Mobile Crisis Response services](https://lims.minneapolismn.gov/File/2026-01042)
+  - [RFP PDF](https://lims.minneapolismn.gov/Download/RCAV2/55272/Mobile-Crisis-Response-Request-for-Proposals.pdf)
+- [Video: 9/23/26 Health, Public Safety and Equity Committee presentation](https://www.youtube.com/live/905TqWttWBI?t=1490s). This happeend BEFORE we recorded.
+- [Memo to the Health, Public Safety and Equity Committee after 9/23 meeting](https://lims.minneapolismn.gov/Download/FileV2/55321/Staff-Response-Memo-Response-LIMS-File-2026-01042_Contract-with-Community-Bridges.pdf)
+- [Video: 10/7/26 Health, Public Safety and Equity Committee presentation](https://www.youtube.com/live/eKCsEkb4XuU?si=Ha_4qKup4hdo3tZA&t=6433). This happened AFTER we recorded, and clips are from this meeting. Best way to get up to speed is probably to read the Staff Presentation PDF, above, and then to watch this session, as it included a lot more relevant context than the prior meeting. It also featured a lot of tendentious intra-council conflict.
+
+### Community Bridges
+
+- [Company website](https://communitybridgesinc.org/)
+- workforce of over 1,700 employees, 
+- runs mobile crisis teams in Arizona, Oklahoma and Idaho
+- runs more than 30 programs that employ 1,700 people, according to its website
+- OCS Deputy commisioner Jeffries cites examples of experience in
+  - Mobile crisis in cities in AZ
+  - Statewide program in OK
+  - Several jurisdictions in ID
+  - Washington DC
+- Board of directors is 4 chiefs of police out of 11 members
 
 
 ## Safety Program Org Structure in Minneapolis
