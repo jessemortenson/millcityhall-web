@@ -148,6 +148,18 @@ City documents and meetings:
   - Washington DC
 - Board of directors is 4 chiefs of police out of 11 members
 
+### Media coverage
+
+Media coverage
+
+- MPR: [Minneapolis plans new provider for behavioral crisis response program](https://www.mprnews.org/story/2026/09/23/minneapolis-behavioral-crisis-response-program-getting-new-provider) (9/23)
+  - Payne: “One of the things that is critically important is a robust implementation plan that ensures we don’t have discontinuity of services. Right now, I’m not presented with anything that gives me confidence that we’re not going to face a discontinuity of services.”
+  - Canopy Roots was recently notified that they weren’t chosen to continue running the program by city officials after a request for proposals was issued earlier this year. There were seven applicants, but city leaders decided to award the contract to Arizona-based Community Bridges, Inc.
+  -  With the complexity of the program, Hanson said she’s worried there may be service gaps during the changeover. Hanson said they haven’t yet received detailed information about the city’s transition plans.
+  - “We know that when we make sure the marginalized are taken care of, everybody is better and everybody gets what they need,” Hanson said. “People in Minneapolis who rely on this service, I do feel worried about what they'll get next.”
+- [Minneapolmedia editorial](https://minneapolimedia.town.news/g/coon-rapids-mn/n/391705/minneapolimedia-editorial-minneapolis-must-prove-its-crisis-response)
+  - The council must also guard against turning clinicians into a general-purpose response to visible poverty. Crisis teams should not be used to remove people from public spaces because their presence makes others uncomfortable. Nor should responders be sent into situations involving weapons or active violence without adequate protection. Clear dispatch rules are necessary both to protect civil rights and to protect workers.
+
 
 ## Safety Program Org Structure in Minneapolis
 
