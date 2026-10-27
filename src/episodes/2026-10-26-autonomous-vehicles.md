@@ -2,7 +2,7 @@
 layout: episode.njk
 title: "Waymo, Big Tech and Democracy"
 date: 2026-10-26T18:05:00.0-5
-description: "Mayor Frey vetoed an ordinance aimed at protecting immigrant ride-hailing drivers. The Governor's Advisory Council recommends enshrining autonomous vehicles in state law without worker protections, accessibility requirements, or local regulation. And yet, Big Tech and AI seem to be facing a popular revolt. So why are some MN Democrats so eager to roll out the red carpet? In the first half, we talk through the local logistics and pros and cons of autonomous vehicles. Skip to the second half (at about 71 minutes) for an extended analysis of the politics around Big Tech, and a debate between trying to extract local benefits vs outright municipal obstruction. Recorded 10/21/26."
+description: "Mayor Frey vetoed an ordinance aimed at protecting immigrant ride-hailing drivers. The Governor Advisory Council recommends enshrining autonomous vehicles in state law without worker protections, accessibility requirements, or local regulation. And yet, Big Tech and AI seem to be facing a popular revolt. So why are some MN Democrats so eager to roll out the red carpet? In the first half, we talk through the local logistics and pros and cons of autonomous vehicles. Skip to the second half (at about 71 minutes) for an extended analysis of the politics around Big Tech, and a debate between trying to extract local benefits vs outright municipal obstruction. Recorded 10/21/26."
 audioUrl: https://millcityhall-downloads.b-cdn.net/261021-autonomous-vehicles.mp3
 audioFileSize: 142228647
 duration: "8889"
