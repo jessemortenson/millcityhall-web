@@ -29,6 +29,20 @@ rel="self" type="application/rss+xml" />
         <itunes:explicit>true</itunes:explicit>
         
         <item>
+            <title>A Blue Wave, from the Local Level Up</title>
+            <link>https://millcityhall.com/episodes/2026-11-05-election-reaction/index.html</link>
+            <description><![CDATA[
+                <p>We sat down the day after the election and shared reactions, starting with the victory of Cedrick Frazier in the County Attorney race and several other notable local outcomes. We also took a whack at the implications of state and national elections. Could Jacob Frey be in line for a Senate appointment? What could Governor Klobuchar mean for progressive policy in Minnesota? Did Saint Paul show us a way to finally bleed dry the coffers of the All of Mpls PAC? And more! Recorded 11/4/26.</p>
+                <p><a href="https://millcityhall.com/episodes/2026-11-05-election-reaction/index.html">Read the show notes and find links for further reading</a></p>
+                ]]>
+            </description>
+            <pubDate>Thu, 05 Nov 2026 23:05:00 +0000</pubDate>
+            <enclosure url="https://millcityhall-downloads.b-cdn.net/261104-election-reaction.mp3" length="90498129" type="audio/mpeg"/>
+            <guid>https://millcityhall.com/episodes/2026-11-05-election-reaction/index.html</guid>
+            <itunes:duration>5656</itunes:duration>
+        </item>
+        
+        <item>
             <title>Waymo, Big Tech and Democracy</title>
             <link>https://millcityhall.com/episodes/2026-10-26-autonomous-vehicles/index.html</link>
             <description><![CDATA[
